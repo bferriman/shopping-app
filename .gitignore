@@ -9,5 +9,7 @@ npm-debug.*
 *.orig.*
 web-build/
 
+assets/app-plan-shop-app.png
+
 # macOS
 .DS_Store
