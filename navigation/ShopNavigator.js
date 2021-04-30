@@ -67,7 +67,7 @@ const MainNavigator = createDrawerNavigator({
   }
 }, {
   contentOptions: {
-    activeTintColor: Colors.accentColor,
+    activeTintColor: Colors.activeColor,
     labelStyle: {
       fontFamily: "nunito"
     }
